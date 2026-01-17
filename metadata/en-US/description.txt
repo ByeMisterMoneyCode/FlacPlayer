@@ -1,0 +1,2 @@
+FlacPlayer is a lightweight Android music player focused on lossless audio playback.
+It supports FLAC files, background playback, media controls, and favorites.
